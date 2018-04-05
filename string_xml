@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TrackItSystem</string>
-    <resources>
+    <string name ="sele_school">---Select School--</string>
+    </resources>
